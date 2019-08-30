@@ -10,7 +10,7 @@ dbcollectionname = "messages"
 
 def listCadastro():
     dbcollection = dbConnection(dbcollectionname)
-    cursor = dbcollection.find().sort("timestamp", -1).limit(10) 
+    cursor = dbcollection.find().sort("timestamp", -1).limit(10)
     return dumps(cursor)
 
 
