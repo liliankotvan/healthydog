@@ -1,5 +1,5 @@
 {
-    "dburi": "mongodb+srv://liliankotvan:27936921qQ$@clusterhealthydog-yfn5y.mongodb.net/test?retryWrites=true&w=majority",
+    "dburi": "mongodb+srv://liliankotvan:*******$@clusterhealthydog-yfn5y.mongodb.net/test?retryWrites=true&w=majority",
     "fbclientId": "XXXXXXXXXX",
     "fbclientSecret": "XXXXXXXXXXXX"   
 }
